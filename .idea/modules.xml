@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sany3ei.iml" filepath="$PROJECT_DIR$/.idea/sany3ei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sany3ei_api/.idea/sany3ei_api.iml" filepath="$PROJECT_DIR$/../sany3ei_api/.idea/sany3ei_api.iml" />
+    </modules>
+  </component>
+</project>
